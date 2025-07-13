@@ -1,4 +1,4 @@
-# ribicont_bot_v1
+# rubicont_bot_v1
 Это предрелизная версия бота(ТГ токен и пароль Redis добавить во врема развертывания проекта)/It is a prerelease version of project, without tokens and redis account. 
 ## Подготовка и запуск проекта
 *Убедиться в наличии установленной ubuntu 22.04
